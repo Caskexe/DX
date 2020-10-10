@@ -3,7 +3,7 @@
 
 Here are the conversions of the instruments and presets available from factory and artist cartridges available in the Soundbank format (SF2) with Kontakt Instruments coming soon. Using various software processes, I've collected and generated various soundbanks and Kontakt instruments that remain as faithful as possible to the original Yamaha DX sounds. No post-processing or editing has been applied.
 
-
+the **.dx7x** format files are for importing into Arturia's DX7 software. Not all of the ROMS are available as converted banks (yet) and not all are sorted and categorised inside the DX7 software (yet!!)
 
 I figured with the love I have for the Yamaha DX series and the DX7 in particular -- combined with my love for the open-source project DEXED -- I'd share my conversions of SYSX files. Many of these were taken from the various sites out there dedicated to archiving and preserving the extracted files -- of which I myself have contributed to over the years where possible.
 
