@@ -8,3 +8,6 @@ the **.dx7x** format files are for importing into Arturia's DX7 software. Not al
 I figured with the love I have for the Yamaha DX series and the DX7 in particular -- combined with my love for the open-source project DEXED -- I'd share my conversions of SYSX files. Many of these were taken from the various sites out there dedicated to archiving and preserving the extracted files -- of which I myself have contributed to over the years where possible.
 
 Huge thanks and most of the credit goes to http://bobbyblues.recup.ch/ as well as Jacques Prestreau (aka BlackWinny) and Dave Benson for providing the information and extracts of the SYSX files.
+
+For patch lists and further information:
+http://bobbyblues.recup.ch/yamaha_dx7/dx7.html
